@@ -1,3 +1,3 @@
 # React-Gpt-FrontEnd
 
-It's sample frontend web 
+It's sample frontend web responsive
